@@ -1,8 +1,14 @@
 {
     "name": "pg-typle-types",
+    "version": "0.0.1",
     "packageManager": "yarn@3.2.0",
+    "repository": "https://github.com/FbN/git-tuple-types",
     "type": "module",
+    "description": "Tuple support for node-postgres",
     "main": "index.js",
+    "author": "Fabiano Taioli <ftaioli@gmail.com>",
+    "license": "MIT",
+    "private": false,
     "dependencies": {
         "postgres-array": "^3.0.1",
         "postgres-composite": "^0.3.0",

@@ -1,0 +1,11 @@
+{
+    "name": "pg-typle-types",
+    "packageManager": "yarn@3.2.0",
+    "type": "module",
+    "main": "index.js",
+    "dependencies": {
+        "postgres-array": "^3.0.1",
+        "postgres-composite": "^0.3.0",
+        "ramda": "^0.28.0"
+    }
+}
